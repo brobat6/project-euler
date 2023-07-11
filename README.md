@@ -1,8 +1,6 @@
 My solutions to some Project Euler problems. 
 
-NOTE : Remember, there is a policy on which solutions can be made public, be sure to look into that before making the repository public.
-
-Current Policy : 
+Project Euler's Policy on which solutions can be made public: 
 
 ```
 Members found to be spoiling problems beyond the first one-hundred problems will have their accounts locked.
