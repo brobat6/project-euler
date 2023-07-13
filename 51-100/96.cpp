@@ -113,7 +113,7 @@ void solve(int i, int j) {
     for(int k = 0; k < 9; k++) {
         if(pos[i][j][k]) {
             int added = add(i, j, k);
-            if(check()) {
+            if(i == 8 && j == 8 && check()) {
                 solved = true;
                 return;
             }
