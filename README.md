@@ -7,3 +7,12 @@ Members found to be spoiling problems beyond the first one-hundred problems will
 
 If you are keen to share your insights and/or wish to see how other members have solved the problem, then please visit our private discussion forum.
 ```
+
+### Fun Problems
+
+Here is a list of problems I really liked solving.
+
+| No  | Name                 | Difficulty |
+|-----|----------------------|------------|
+| 84  | Monopoly Odds        | 35%        |
+| 110 | Diophantine Reciprocals II | 40%  |
