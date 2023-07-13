@@ -15,4 +15,5 @@ Here is a list of problems I really liked solving.
 | No  | Name                 | Difficulty |
 |-----|----------------------|------------|
 | 84  | Monopoly Odds        | 35%        |
+| 96  | Su Doku              | 25%        |
 | 110 | Diophantine Reciprocals II | 40%  |
